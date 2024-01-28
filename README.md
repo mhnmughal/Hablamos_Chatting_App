@@ -9,11 +9,9 @@ A simple chat application developed using JavaFX for the graphical user interfac
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 
@@ -49,8 +47,7 @@ Log in with your credentials.
 
 - Send and receive messages in real-time.
 
-## Screenshots
-Include screenshots of your application to give users a visual representation of its interface and functionality.
+
 
 Built With
 JavaFX - Java framework for building desktop applications.
