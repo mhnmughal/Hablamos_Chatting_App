@@ -36,3 +36,26 @@ A simple chat application developed using JavaFX for the graphical user interfac
    ```bash
    git clone https://github.com/mhnmughal/Hablamos_Chatting_App.git
    
+Open the project in your preferred IDE.
+
+Build and run the application.
+
+## Usage
+Launch the application.
+
+Log in with your credentials.
+
+- Select a user from the list to start a chat.
+
+- Send and receive messages in real-time.
+
+## Screenshots
+Include screenshots of your application to give users a visual representation of its interface and functionality.
+
+Built With
+JavaFX - Java framework for building desktop applications.
+FXML - XML-based markup language for JavaFX.
+## Contributing
+Contributions are welcome! 
+
+
