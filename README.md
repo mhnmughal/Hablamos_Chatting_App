@@ -48,7 +48,6 @@ Log in with your credentials.
 - Send and receive messages in real-time.
 
 
-
 Built With
 JavaFX - Java framework for building desktop applications.
 FXML - XML-based markup language for JavaFX.
