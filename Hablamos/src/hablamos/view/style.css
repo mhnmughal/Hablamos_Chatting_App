@@ -1,0 +1,21 @@
+.dark-gray-background
+{
+	-fx-background-color:#1bf593;
+}
+.gray-background
+{
+	-fx-background-color:#636566;
+}
+.transparent-background
+{
+	-fx-background-color:rgb(0,0,0,0);
+}
+.radius
+{
+-fx-background-radius: 100px;
+	
+}
+.blue-background
+{
+	-fx-background-color:#8ed084;
+}
